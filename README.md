@@ -22,7 +22,7 @@ With the code available you can have the ability to do math operations like addi
 ## Patch Notes
 
 * 0.1.0 (08/02/2022)
-    * Project launched
+    * Project relaunched
     * CHANGE: Readme file update
 ## Meta
 
