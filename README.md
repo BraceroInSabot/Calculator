@@ -1,7 +1,8 @@
 # Python Calculator
+<<<<<<< HEAD
 > A simple application that have the unique use to make math operations as fast as a the human brain!
 
-Make quicky math operations
+Make quicky math operations.
 
 ![Project](main_exec.png)
 
@@ -30,3 +31,6 @@ Guilherme Bracero Gonzales - [@bracerin](https://twitter.com/bracerin) - guibrag
 
 Distributed for free, provided credits are given
 (https://github.com/BraceroInSabot)
+
+
+
